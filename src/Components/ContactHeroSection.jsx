@@ -39,8 +39,8 @@ const ContactHeroSection = () => {
                     Come say hello at our office HQ
                   </p>
                   <p className="  font-SatoshiMedium text-[16px] text-[#061C60]">
-                    401 The Epicentre Lifestyle, 1 Zilly Aggrey Drive, Karmo
-                    District, Abuja
+                    No 23A House 9, NEPA Quarters, Ladoke Akintola Street GRA Ikeja,
+                    Lagos Nigeria
                   </p>
                 </div>
               </div>
@@ -54,7 +54,7 @@ const ContactHeroSection = () => {
                     Mon - Fri, 9am - 5pm
                   </p>
                   <p className="  font-SatoshiMedium text-[16px] text-[#061C60]">
-                    +234703 610 8580
+                    +2348135650545
                   </p>
                 </div>
               </div>
